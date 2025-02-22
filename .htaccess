@@ -1,0 +1,4 @@
+DirectoryIndex index.html index.php app.py
+PassengerEnabled on
+PassengerAppRoot /home/ibragise/ibragise.beget.tech/public_html
+PassengerPython /home/ibragise/ibragise.beget.tech/public_html/.venv/bin/python3
